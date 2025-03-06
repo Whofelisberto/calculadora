@@ -15,4 +15,4 @@ def calculadora(num1, num2 , operacao):
     return num1 * num2
   elif operacao == "divisao":
     return num1 / num2 if num2 !=0 else "erro"
-print(f"O resultado da soma é: {multiplicacao}")
+print(f"O resultado da soma é: {soma}")
